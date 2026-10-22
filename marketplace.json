@@ -552,38 +552,42 @@
           "NSPhotoLibraryUsageDescription": "Allows Delta to use images from your Photo Library as game artwork."
         }
       },
-      "screenshots": [
-        "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/1260x2736bb-1.png",
-        "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/1260x2736bb-2.png",
-        "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/1260x2736bb-3.png",
-        "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/1260x2736bb-4.png",
-        "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/1260x2736bb-5.png",
-        {
-          "imageURL": "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/2736x1260bb-6.png",
-          "width": 2736,
-          "height": 1260
-        },
-        {
-          "imageURL": "https://f000.backblazeb2.com/file/altstore/images/delta/iPad/2048x2732bb-1.png",
-          "width": 2048,
-          "height": 2732
-        },
-        {
-          "imageURL": "https://f000.backblazeb2.com/file/altstore/images/delta/iPad/2048x2732bb-2.png",
-          "width": 2048,
-          "height": 2732
-        },
-        {
-          "imageURL": "https://f000.backblazeb2.com/file/altstore/images/delta/iPad/2048x2732bb-3.png",
-          "width": 2048,
-          "height": 2732
-        },
-        {
-          "imageURL": "https://f000.backblazeb2.com/file/altstore/images/delta/iPad/2732x2048bb.png",
-          "width": 2732,
-          "height": 2048
-        }
-      ]
+      "screenshots": {
+        "iphone": [
+          "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/1260x2736bb-1.png",
+          "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/1260x2736bb-2.png",
+          "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/1260x2736bb-3.png",
+          "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/1260x2736bb-4.png",
+          "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/1260x2736bb-5.png",
+          {
+            "imageURL": "https://f000.backblazeb2.com/file/altstore/images/delta/iPhone/2736x1260bb-6.png",
+            "width": 2736,
+            "height": 1260
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://f000.backblazeb2.com/file/altstore/images/delta/iPad/2048x2732bb-1.png",
+            "width": 2048,
+            "height": 2732
+          },
+          {
+            "imageURL": "https://f000.backblazeb2.com/file/altstore/images/delta/iPad/2048x2732bb-2.png",
+            "width": 2048,
+            "height": 2732
+          },
+          {
+            "imageURL": "https://f000.backblazeb2.com/file/altstore/images/delta/iPad/2048x2732bb-3.png",
+            "width": 2048,
+            "height": 2732
+          },
+          {
+            "imageURL": "https://f000.backblazeb2.com/file/altstore/images/delta/iPad/2732x2048bb.png",
+            "width": 2732,
+            "height": 2048
+          }
+        ]
+      }
     },
     {
       "name": "Delta",
